@@ -17,10 +17,3 @@ function exibeNomeENota(aluno) {
 
 exibeNomeENota('Juliana');
 exibeNomeENota('Vini');
-
-
-
-
-let j = 8;
-console.log(++j); // Saída: 9 (j foi incrementado antes de ser usado)
-console.log(j);   // Saída: 9 (j já foi incrementado)
